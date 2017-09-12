@@ -1,0 +1,2 @@
+# practic2
+dispositivosmoviles
